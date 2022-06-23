@@ -4,7 +4,7 @@ Hi, I'm Philip Henrique Puglielli, Software Engineer and I currently work creati
 
 - I currently work as a software engineer in cloud applications using AWS at [Itau Unibanco](https://www.itau.com.br/).
 
-- 🌱  I'm currently learning Kotlin for microservices development and I'm learning most AWS services like EKS, ECS, EC2, Fargate, s2, cloudFront, Lambda, ALB, NLB, among others.
+- 🌱  I'm currently learning Kotlin for microservices development and I'm learning most AWS services like EKS, ECS, EC2, Fargate, S3, CloudFront, Lambda, ALB, NLB, among others.
 
 ## Get in touch
 - Linkedin: [linked.in/philip-puglielli](https://www.linkedin.com/in/philip-puglielli-53b627129/en)
